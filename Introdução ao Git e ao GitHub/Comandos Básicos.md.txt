@@ -1,0 +1,12 @@
+# Comandos Basicos Git :+1:
+## Lista Primeiros Comandos para Iniciantes 
+
+
+### Windows
+ - Comando para listar as pastas: **dir**
+ - Navegar entre pastas: **cd**
+ - Sair da pasta: **cd..**
+ - Para criar uma pasta: **mkdir** *+ nome da pasta a ser criada*
+ - Para deletar arquivos de uma pasta: **del** *+ nome da pasta*
+ - Para deletar o repositório completo: **rmdir** *+ nome da pasta*
+

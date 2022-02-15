@@ -1,0 +1,33 @@
+# Importando um repositório usando linhas de comando
+
+## Passo a Passo para Iniciantes:
+
+- [Entre na página GitHub]([GitHub](https://github.com/))
+
+- Faça seu login 
+
+- Crie um novo repositório 
+
+- Na guia *'Code'* , copie o HTTPS 
+
+- Dentro da Pasta desejada, abra o *Git Bash*
+
+- Para que esse repositório seja importado use o comando: *git clone + link copiado do repositório*
+
+- Adicione pastas, faça alteração em arquivos
+
+- Para visualizar as alterações adicionadas, use o comando: *git status*
+
+- Para salvar as alterações na sua rede local, use o comando: *git add.* ou *git add -A*
+
+- Para enviar as atualizações ao seu repositório no GitHub, use: *git commit -m*
+
+- Finalizar com o *git push origin main*
+
+  
+
+  E prontinho, é só explorar os recursos e soltar a imaginação!
+  
+  
+  
+  
