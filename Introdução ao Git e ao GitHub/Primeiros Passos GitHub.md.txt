@@ -18,7 +18,7 @@
 
 - Para visualizar as alterações adicionadas, use o comando: *git status*
 
-- Para salvar as alterações na sua rede local, use o comando: *git add.* ou *git add -A*
+- Para salvar as alterações na sua rede local, use o comando: *git add .* ou *git add -A*
 
 - Para enviar as atualizações ao seu repositório no GitHub, use: *git commit -m "Descreva o que foi feito"*
 
